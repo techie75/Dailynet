@@ -1,0 +1,395 @@
+# EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxCLv2Mp/techie.png" group-title="Myanmar",နည်းပညာလေ့လာသူ
+https://invyuq.ph.files.1drv.com/y4m0uQMNa5GJxR_CuOkLPCK6Q4KbIuDtJAJR-8KrWKgBgkcSbdwERRNA_ePY5twhoWl38-Es03ShQ5-lBhRH146AkjAqnVu0_RuOS4aht1BjWCJRJOy1bGiQIvDtiO_CtGeJzIVMYTG9fldjs3jIOSRMHKsNPVKacPC41mU4_-0VAsR8x5t5JX5HnGRLM2pwa7nLcYWlGHvmafJFJuRB88uLg?
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/maharbawdi.jpg" group-title="Myanmar",MAHABAWDI 
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mrtv42.jpg" group-title="Myanmar",MRTV4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/channel7.jpg" group-title="Myanmar",Channel7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg" group-title="Myanmar",Channel K 
+http://183.89.246.119:8881/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg" group-title="Myanmar",Channel ME 
+http://183.89.246.119:8881/play/a07t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg" group-title="Myanmar",MAHAR
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/5plus.jpg" group-title="Myanmar",5 plus 
+http://183.89.246.119:8881/play/a07w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/fortune.jpg" group-title="Myanmar",Fortune TV 
+http://183.89.246.119:8881/play/a082/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/ytv.jpg" group-title="Myanmar",YTV
+http://183.89.246.119:8881/play/a081/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mntv.jpg" group-title="Myanmar",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/67/26/82/360_F_467268204_d73m0nuzv4FutlA3TTxakMh3XxZSKmKA.jpg" group-title="Myanmar",MCS Channel
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxjmwqry/ced7d2065e267c760c195b67b88e-l1r-picsay.jpg" group-title="Myanmar",MWD Serie
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2kzYyXc/ced7d2065e267c760c195b67b88e-l1r-picsay.jpg" group-title="Myanmar",MWD Movie
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFfvw17lSf8a0VT6bF1TpmBR_8NuxwBpPyg&usqp=CAU" group-title="Myanmar",MRTV Sport 
+http://183.89.246.119:8881/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL3zwVRs/beinsports1-english.png" group-title="Bein Sports",[AR] Bein Sport 1 En
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419271
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVBy7hYx/beinsports2-english.png" group-title="Bein Sports",[AR] Bein Sport 2 En
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419270
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym1m4zs/beinsports3-english-1.png" group-title="Bein Sports",[AR] Bein Sport 3 En
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419269
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y82W7mnd/abonnement-bein-sport-3-mois-picsay.jpg" group-title="Bein Sports",[AR] Bein Sport Premium 1 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419299
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y82W7mnd/abonnement-bein-sport-3-mois-picsay.jpg" group-title="Bein Sports",[AR] Bein Sport Premium 2 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419298
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y82W7mnd/abonnement-bein-sport-3-mois-picsay.jpg" group-title="Bein Sports",[AR] Bein Sport Premium 3 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419297
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 1 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419296
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 2 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419298
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 3 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419297
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 4 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419293
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 5 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419292
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 6 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419291
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 7 FHD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419290
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/swsatone.com/wp-content/uploads/2022/09/beIN-Sports-premium-1-HD.jpg?fit=600%2C357&ssl=1" group-title="Bein Sports",[AR] Bein Sport Premium 1 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419286
+
+#EXTINF:-1 tvg-logo="https://beinsportslivehd.com/wp-content/uploads/2022/03/Bein-Sport-Premium-2-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-2-Premium-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-300x180.jpg" group-title="Bein Sports",[AR] Bein Sport Premium 2 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419285
+
+#EXTINF:-1 tvg-logo="https://beinsportslivehd.com/wp-content/uploads/2022/03/Bein-Sport-3-Premium-HD-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-3-Premium-3-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86-1-300x180.jpg" group-title="Bein Sports",[AR] Bein Sport Premium 3 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419284
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 1 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419283
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 2 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419282
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 3 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419281
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 4 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419280
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 5 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419279
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 6 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419278
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 7 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2419277
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 1HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5986
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 2HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5987
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 3HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5988
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 4HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5989
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 5HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5990
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 6HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5991
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/38x9ac83" group-title="Bein Sports",[AR] Bein Sport 7HD (backup)
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5992
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6jw7na" group-title="Bein Sports", [FR] beIN Sports 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/444
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6jw7na" group-title="Bein Sports", [FR] beIN Sports 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/16105
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6jw7na" group-title="Bein Sports", [FR] beIN Sports 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/446
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p8cj4uh" group-title="Bein Sports", [FR] beIN Sports Max 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2865
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p8cj4uh" group-title="Bein Sports",[ FR] beIN Sports Max 5
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5618
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p8cj4uh" group-title="Bein Sports",[FR] beIN Sports Max 6
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5619
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p8cj4uh" group-title="Bein Sports",[FR] beIN Sports Max 7
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5620
+
+
+
+#############AllSports#############
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="All Sports",[MY] Astro Super Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421583
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="All Sports",[MY] Astro Super Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421584
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="All Sports",[MY] Astro Super Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421581
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="All Sports",[MY] Astro Super Sport 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421503
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest?cb=20180622074357" group-title="All Sports",[MY] Astro Super Sport 5
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421547
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest?cb=20190123083011" group-title="All Sports",[MY] Astro Arena
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421584
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/AstroArena2.png/revision/latest?cb=20211002112557" group-title="All Sports",[MY] Astro Arena 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2421501
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZNreJ-yyCF1BKEknxdPKRHTzEMWQ88h3VFTPIBQ&s" group-title="All Sports",[CA] TSN 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/92
+
+#EXTINF:-1 tvg-logo="https://ia800801.us.archive.org/32/items/stevechatfield27_gmail_Tsn2/tsn%202.png" group-title="All Sports",[US] TSN 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/545365
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy81F1nHFr_nSxBvd0efCEG_0OSRuOwQEi6ykfA0&s" group-title="All Sports",[CA] TSN 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/94
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsU-hJJAeKDurdH7ZeHWaq3zqAIIy7Nr4RaHrzc-s&s" group-title="All Sports",[CA] TSN 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/95
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90125_h15_aa.png" group-title="All Sports",[CA] TSN 5 
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/96
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/23rymnw6" group-title="All Sports",[PT] SPORT.TV + HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7731
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3pa7rv53" group-title="All Sports",[PT] SPORT.TV 1 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3992
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p975ypt" group-title="All Sports",[PT] SPORT.TV 2 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3993
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/m7tevmd3" group-title="All Sports",[PT] SPORT.TV 3 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3994
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3dkmm8n4" group-title="All Sports",[PT] SPORT.TV 4 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7041
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2p9yt3de" group-title="All Sports",[PT] SPORT.TV 5 HD
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7040
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3h9sxw85" group-title="All Sports",[FR] RMC Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3715
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3h9sxw85" group-title="All Sports",[FR] RMC Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3713
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3h9sxw85" group-title="All Sports",[FR] RMC Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3714
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6ssc7c" group-title="All Sports",[AL] Trying Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3396
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6ssc7c" group-title="All Sports",[AL] Trying Sport 2
+
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3368
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6ssc7c" group-title="All Sports",[AL] Trying Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3367
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5n6ssc7c" group-title="All Sports",[AL] Trying Sport 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3395
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s1600/Digi+Sport+logo+2012.jpg" group-title="All Sports",[RO] Digi Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4481
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s1600/Digi+Sport+logo+2012.jpg" group-title="All Sports",[RO] Digi Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4482
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s1600/Digi+Sport+logo+2012.jpg" group-title="All Sports",[RO] Digi Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4483
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s1600/Digi+Sport+logo+2012.jpg" group-title="All Sports",[RO] Digi Sport 4 
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4484
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="All Sports",[AL] Super Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2130
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="All Sports",[AL] Super Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2129
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="All Sports",[AL] Super Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/407
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="All Sports",[AL] Super Sport 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/340
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png" group-title="All Sports",[Ecuador] Directv Sport
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2442030
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="All Sports",[Ecuador] Directv Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2442029
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6yFfjtk/Directv-Sport.png" group-title="All Sports",[Ecuador] Directv Sport +
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/2442028
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg" group-title="All Sports",[AL] K Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7369
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg" group-title="All Sports",[AL] K Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7370
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg" group-title="All Sports",[AL] K Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7371
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg" group-title="All Sports",[AL] K Sport 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7372
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebQEeM3v4rYt1bbZQvTZKiL03ZSXdg4d4dQ&usqp=CAU" group-title="All Sports", [EX-YU] Arena Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/30759
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="All Sports", [EX-YU] Arena Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/28268
+
+#EXTINF:-1 tvg-logo="https://topnet.ma/iptv/wp-content/uploads/2021/10/Arena-Sport-3.png" group-title="All Sports", [EX-YU] Arena Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/31021
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4.png" group-title="All Sports",[EX-YU] Arena Sport 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/31022
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjSqtrS/download.png" group-title="All Sports",[EX-YU] Arena Sport 5
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/18203
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports", [EX-YU] SPORT KLUB 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3605
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports", [EX-YU] SPORT KLUB 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3604
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports", [EX-YU] SPORT KLUB 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3603
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports",[EX-YU] SPORT KLUB 4
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3602
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports",[EX-YU] SPORT KLUB 5 
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3601
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgK6hl_qHK8ZQKWBD3mGFFUgL7sfOGwebboi5A86i&s" group-title="All Sports",[EX-YU] SPORT KLUB 6
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3600
+
+#EXTINF:-1 tvg-logo="https://dufourlapointe.com/wp-content/uploads/Logo-TVA-Sports-1-vertical-RGB-2.png" group-title="All Sports",[CA] TVA Sport
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/18190
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/TVA_Sports_2.svg/revision/latest/scale-to-width-down/250?cb=20220605182016" group-title="All Sports",[CA] TVA Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/50367
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="All Sports",[Latino] Fox Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5184
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="All Sports",[Latino] Fox Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5183
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_3_%28Argentina%29_Logo_2022.png" group-title="All Sports",[Latino] Fox Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7414
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/537-5372644_bt-sport-logo-vector-hd-png-download.png" group-title="All Sports",[UK] BT Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0WNxv5/download-jpeg.jpg" group-title="All Sports",[UK] BT Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/6
+
+#EXTINF:-1 tvg-logo="https://ia600809.us.archive.org/11/items/BtSport3/bt%20sport%203.png" group-title="All Sports",[UK] BT Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/5547
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/972/795/png-transparent-ultimate-fighting-championship-bt-sport-espn-television-channel-streaming-media-tv-channel-television-label-text.png" group-title="All Sports",[UK] BT Sport ESPN
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzvDRws1IbmAeB9ds2N83yP4XX6VfAEl8gg&usqp=CAU" group-title="All Sports",[UK] BT Sport Extra
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/4476
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="All Sports",[IN] Sony Six
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="All Sports",[IN] Sony Ten 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/887
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkjVNRxZ/20221119-130819.png" group-title="All Sports",[IN] Sony Ten 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/10183
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6HncKM/Sony-ten3.jpg" group-title="All Sports",[IN] Sony Ten 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/8765
+
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORT-SELECT-HD-1.png" group-title="All Sports",[IN] Star Sport Select 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/54242
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438" group-title="All Sports",[IN] Star Sport Select 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/54243
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Star_Sports_2013.png/revision/latest?cb=20190712150601" group-title="All Sports",[IN] Star Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3250
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/362/254/png-clipart-star-sports-3-logo-television-channel-star-india-news-live-television-text.png" group-title="All Sports",[IN] Star Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3249
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYcnmXBB/star-sport-3.png" group-title="All Sports",[IN] Star Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/3248
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9J4jMY6/yes-sport1.jpg" group-title="All Sports",[IL] Yes Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/114428
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj07LhDT/yes-sport2.jpg" group-title="All Sports",[IL] Yes Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/114429
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKL7VJwF/yes-sport3.jpg" group-title="All Sports",[IL] Yes Sport 3
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/114430
+
+#EXTINF:-1 tvg-logo="https://www.horizont.net/news/media/33/bluesport-Logo-326410.jpeg" group-title="All Sports",[CH] Blue Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7311
+
+#EXTINF:-1 tvg-logo="https://www.horizont.net/news/media/33/bluesport-Logo-326410.jpeg" group-title="All Sports",[CH] Blue Sport 2
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7309
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png" group-title="All Sports",[BG] Diema Sport 1
+http://tribeiptv.tv:8080/techie0141/Z2jTrJ/7119
